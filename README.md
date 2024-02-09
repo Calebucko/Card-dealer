@@ -25,6 +25,7 @@
     initcard function ()
         Assign all 52 cards to DB
         All entries are listed at location zero
+        return database
 
     assign cards function ()
         involves cardDB and hands
